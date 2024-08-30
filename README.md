@@ -2,4 +2,4 @@ I had the hardest time compiling firmware for my handwired paintbrush based off 
 I flipped their design to a left hand oriented print (files under STLs folder), and got the case printed, but was unable to find any working firmware for the device. 
 The files in this repo will allow you to customize a working firmware for the device. I am not certain that it is 100% correct, but it does at least function.
 
-The xcf file is a gimp file of the keymap which can be edited per user requirements.
+The xcf file is a Gimp image editor file of the keymap which can be edited per user requirements.
