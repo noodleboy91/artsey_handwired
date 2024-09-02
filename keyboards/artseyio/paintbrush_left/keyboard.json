@@ -18,7 +18,7 @@
         "command": false,
         "console": false,
         "extrakey": true,
-        "mousekey": false,
+        "mousekey": true,
         "nkro": false,
         "oled": false,
         "rgblight": false
