@@ -1,8 +1,8 @@
 {
     "keyboard_name": "Paintbrush",
-    "manufacturer": "Noddleboy89",
+    "manufacturer": "Handwired",
     "url": "",
-    "maintainer": "Noddleboy89",
+    "maintainer": "GG",
     "usb": {
         "vid": "0xCB00",
         "pid": "0xF09F",
