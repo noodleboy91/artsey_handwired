@@ -1,0 +1,69 @@
+{
+  "name": "TutelPad",
+  "vendorProductId": 3405836447,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    [
+      "LT(1,KC_S)",
+      "KC_T",
+      "KC_R",
+      "LT(6,KC_A)",
+      "LT(2,KC_O)",
+      "KC_I",
+      "KC_Y",
+      "LT(3,KC_E)"
+    ],
+    ["KC_TRNS", "KC_3", "KC_2", "KC_1", "KC_TRNS", "KC_6", "KC_5", "KC_4"],
+    [
+      "KC_A",
+      "KC_VOLU",
+      "KC_V",
+      "KC_C",
+      "KC_TRNS",
+      "KC_VOLD",
+      "KC_X",
+      "KC_LCTL"
+    ],
+    [
+      "KC_BSLS",
+      "KC_SCLN",
+      "KC_GRV",
+      "S(KC_3)",
+      "KC_EQL",
+      "KC_MINS",
+      "S(KC_MINS)",
+      "KC_TRNS"
+    ],
+    [
+      "KC_MS_WH_UP",
+      "KC_MS_BTN2",
+      "KC_MS_UP",
+      "KC_MS_BTN1",
+      "KC_MS_WH_DOWN",
+      "KC_MS_RIGHT",
+      "KC_MS_DOWN",
+      "KC_MS_LEFT"
+    ],
+    [
+      "KC_PGUP",
+      "KC_END",
+      "KC_UP",
+      "KC_HOME",
+      "KC_PGDN",
+      "KC_RGHT",
+      "KC_DOWN",
+      "KC_LEFT"
+    ],
+    [
+      "S(KC_LBRC)",
+      "KC_LBRC",
+      "S(KC_9)",
+      "KC_TRNS",
+      "S(KC_RBRC)",
+      "KC_RBRC",
+      "S(KC_0)",
+      "KC_TRNS"
+    ]
+  ],
+  "encoders": []
+}
